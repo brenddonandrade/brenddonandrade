@@ -2,6 +2,11 @@
 
 I have a degree in Physics, emphasizing Computational Physics, from the Fluminense Federal University (UFF). I am currently a master's student in Physics at the same institution, where I develop research on time series and complex systems, using data from the financial market. I was a two-year scientific initiation scholarship holder at the National Institute for Space Research (INPE), working in ​​complex networks, in a project entitled "Analysis of transport and circulation networks in the context of sustainable strategies for regional development at the metropolitan scale". In addition, I was responsible for the CORPSE laboratory, dedicated to the development and research of students and researchers of the ADACA project. I also participated in the CEMUCAD project, in which I contributed to the construction of supercomputers for the institution's internal projects. I am interested in Statistical Physics, Complex Systems, Complex Networks, Cybersecurity, Computer Architecture, and High Performance Computing.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
 
  <div>
   <a href="https://github.com/brenddonerick">
