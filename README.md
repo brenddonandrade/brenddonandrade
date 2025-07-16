@@ -22,17 +22,6 @@ I have a degree in Physics, emphasizing Computational Physics, from the Fluminen
 
 ---
 
-<!-- GitHub Stats -->
-<details>
-  <summary>Github Stats ⚡</summary>
-  <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
-</div>
-  
-</details>
  <div>
   <a href="https://github.com/brenddonerick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenddonandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
